@@ -3,6 +3,7 @@
 working with software testing, focus on software quality and IT systems. Graduate in analysis and systems development.
 
 knowledge:
+
 -Selenium WebDriver (TestNG and J'unit)
 - API test with Postman and Insomnia 
 - Jira for task management
