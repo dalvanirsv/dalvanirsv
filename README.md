@@ -7,10 +7,10 @@ knowledge:
 - Selenium WebDriver (TestNG and J'unit)
 - API test with Postman and Insomnia 
 - Jira for task management
-- agile methodology (Scrum)
-- Manual tests
-- exploratory tests
-- test automation
+- Agile methodology (Scrum)
+- Test automation
+- Exploratory tests
+- Manual Test
 
 <!---
 dalvanirsv/dalvanirsv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
