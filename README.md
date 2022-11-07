@@ -12,12 +12,8 @@ knowledge:
 - Exploratory tests
 - Manual Test
 
-Language:
-- Java
-- C#
-
-
-<!---
-dalvanirsv/dalvanirsv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <div>
+    <a href-"https://https://github.com/dalvanirsv">
+    <imag height-"180em" src="https://github-readme-stats-vercel.app/api?username=dalvanirsv&show_icons=true&theme-dracula&includ_all_commits=true&&count_private=true"/>
+     <imag height-"180em" src="https://github-readme-stats-vercel.app/api/top-langs/?username=dalvanirsv&layout-compact&langs_count-168theme-dracula"/>
+      </div>    
