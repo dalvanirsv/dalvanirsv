@@ -12,8 +12,14 @@ knowledge:
 - Exploratory tests
 - Manual Test
 
-  <div>
-    <a href-"https://https://github.com/dalvanirsv">
-    <imag height-"180em" src="https://github-readme-stats-vercel.app/api?username=dalvanirsv&show_icons=true&theme-dracula&includ_all_commits=true&&count_private=true"/>
-     <imag height-"180em" src="https://github-readme-stats-vercel.app/api/top-langs/?username=dalvanirsv&layout-compact&langs_count-168theme-dracula"/>
-      </div>    
+ <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=dalvanirsv&show_icons=true&theme=radical"
+  media="(prefers-color-scheme: gruvbox)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=dalvanirsv&show_icons=true"
+  media="(prefers-color-scheme: gruvbox), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=dalvanirsv&show_icons=true" />
+</picture>  
