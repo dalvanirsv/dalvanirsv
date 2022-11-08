@@ -2,7 +2,7 @@
 
 working with software testing, focus on software quality and IT systems. Graduate in analysis and systems development.
 
-TECNOLOGIAS
+Technologies:
 ________________________________________________________________________________________________________________________________
 
 <div align="center">
